@@ -1,0 +1,59 @@
+.cuerpoCuatro{
+	display: block;
+	width: 100%;
+	border-top:1px solid #ACADAA;
+}
+
+.Pcomponente{
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+	margin: 180px auto;
+
+}
+
+.componente1{
+	font-size: 35px;
+	color: #FFF31B;
+}
+
+ .borrarmanchas{
+ 	list-style: none;
+ 	text-decoration: none;
+ 	
+	color: #FFF31B;
+ }
+
+ div div div a span:hover.icon-circle-up{
+ 	color: #000;
+}
+.componente2{
+	color: #495857;
+	text-align: center;
+	width: 100%;
+	margin: 60px auto;
+}
+
+.componente3{
+	color: #495857;
+	text-align: center;
+	width: 100%;
+	font-size: 17px;
+}
+
+.componente3 span {
+	color: #495857;
+	padding-right: 26px;
+	padding-left: 26px;
+}
+
+/*.componente4{
+	text-align: center;
+	background-color: red;
+	width: 100%;
+}
+
+.componente5{
+	text-align: center;
+	background-color: red;
+	width: 100%;
+}*/

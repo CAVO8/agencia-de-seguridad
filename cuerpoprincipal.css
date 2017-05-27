@@ -1,0 +1,165 @@
+section{
+	width: 100%;
+
+}
+
+.columna{
+	position: relative;
+	display: inline-block;
+	width: 100%;
+}
+
+.columna1{
+	padding-right: 5px;
+	float: left;
+	display: inline-block;
+	text-align: center;
+	width: 24%;
+}
+
+.columna2{
+	padding-right: 5px;
+	float: left;
+	display: inline-block;
+	text-align: center;
+	width: 24%;
+}
+
+.columna3{
+	padding-right: 5px;
+	float: left;
+	display: inline-block;
+	text-align: center;
+	width: 24%;
+}
+
+.columna4{
+	padding-right: 5px;
+	float: left;
+	display: inline-block;
+	text-align: center;
+	width: 24%;
+}
+.imagen{
+	width: 100%;
+}
+.SubElemento1{
+	
+	font-family: 'PT Sans', sans-serif;
+}
+
+.SubElemento1 h1{
+	
+	margin: 20px auto;
+}
+
+.SubElemento2{
+	
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.SubElemento2 h2{
+	
+	margin: 20px auto;
+}
+
+.SubElemento3{
+	
+	background-size: contain;
+}
+
+.SubElemento3 img{
+
+	border-radius: 10px;
+	margin: 20px auto;
+}
+
+.SubElemento4{
+	
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.SubElemento4 p{
+	
+	margin: 20px auto;
+}
+
+.SubElemento5 {
+	
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.SubElemento5 {
+	margin: 20px auto;
+	width: 50px;
+	background: #fff;
+	color: #000;
+	border-radius: 7px;
+	cursor: pointer;
+	font-size: 35px;
+}
+
+section div div div h4:hover {
+
+	
+	background: #000;
+	color: #FFF31B;
+	border-radius: 7px;
+}
+
+
+@media screen and (max-width: 930px) {
+
+	.columna1{
+	display: inline-block;
+	text-align: center;
+	width: 48%;
+}
+
+.columna2{
+	display: inline-block;
+	text-align: center;
+	width: 48%;
+}
+
+.columna3{
+	display: inline-block;
+	text-align: center;
+	width: 48%;
+}
+
+.columna4{
+	display: inline-block;
+	text-align: center;
+	width: 48%;
+}
+
+}
+
+@media screen and (max-width: 450px) {
+
+	.columna1{
+		display: inline-block;
+		text-align: center;
+		width: 100%;
+	}
+
+	.columna2{
+		display: inline-block;
+		text-align: center;
+		width: 100%;
+	}
+
+	.columna3{
+		display: inline-block;
+		text-align: center;
+		width: 100%;
+	}
+
+	.columna4{
+		display: inline-block;
+		text-align: center;
+		width: 100%;
+	}
+
+}

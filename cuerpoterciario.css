@@ -1,0 +1,74 @@
+.cuerpoTres{
+	display: block;
+	width: 100%;
+	border-top:1px solid #ACADAA;
+}
+
+.Pelemento{
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+	margin: 80px auto;
+}
+
+
+.elemento1{
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 35px;
+	margin: 20px auto;
+}
+.elemento2{
+	text-align: center;
+	width: 100%;
+}
+
+.elemento3{
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #495857;
+	font-size: 20px;
+	margin: 4px auto;
+}
+
+.imagentres{
+
+	width: 70%;
+}
+
+.elemento4{
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #495857;
+	width: 70%;
+	text-align: center;
+	margin: 4px auto;
+}
+
+.elemento5{
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin: 20px auto;
+	width: 50px;
+	color: #000;
+	border-radius: 7px;
+	cursor: pointer;
+	font-size: 35px;
+}
+
+@media screen and (max-width: 680px) {
+	.elemento1{
+		font-size: 22px;
+
+	}
+	.elemento3{
+		font-size: 15px;
+
+	}
+}
+
+@media screen and (max-width: 490px) {
+	.elemento1{
+		font-size: 13px;
+
+	}
+	.elemento3{
+		font-size: 13px;
+
+	}
+}

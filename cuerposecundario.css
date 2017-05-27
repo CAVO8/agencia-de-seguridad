@@ -1,0 +1,76 @@
+.cuerpoDos{
+	border-top:1px solid #ACADAA;
+	display: block;
+	width: 100%;
+
+}
+
+.Pfila{
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+	margin: 120px auto;
+}
+
+.fila1{
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 45px;
+	margin: 20px auto;
+
+}
+.fila2{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 20px;
+	color: #495857;
+	margin: 20px auto;
+}
+
+.fila3{
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #495857;
+	font-size: 20px;
+	margin: 4px auto;
+}
+
+.fila4{
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: #495857;
+	width: 70%;
+	text-align: center;
+	margin: 4px auto;
+}
+
+.fila5{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.fila5 {
+	
+	margin: 20px auto;
+	width: 50px;
+	background: #fff;
+	color: #000;
+	border-radius: 7px;
+	cursor: pointer;	
+	font-size: 35px;
+}
+
+section div div div h4:hover {
+	
+	background: #000;
+	color: #FFF31B;
+	border-radius: 7px;
+}
+
+@media screen and (max-width: 600px) {
+	.fila1{
+		font-size: 22px;
+
+	}
+	.fila2{
+		font-size: 15px;
+	}
+
+	.fila3{
+		font-size: 18px;
+	}	
+}
